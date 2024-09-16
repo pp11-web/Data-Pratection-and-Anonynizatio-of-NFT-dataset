@@ -74,7 +74,3 @@ The file plot_output.jps will be generated if the argument --plt y is specified.
 
 ## References
 Mondrian_Multidimensiona_K-Anonymity.pdf
-
-## Authors
-+ [Andrea Mercuri](https://github.com/ilmercu)
-+ [Andrea Mazza](https://github.com/Andrew0133)
